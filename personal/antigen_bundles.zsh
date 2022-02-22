@@ -4,6 +4,7 @@
 # See https://github.com/zsh-users/antigen/wiki/Commands#antigen-bundle for instructions on including custom plugins.
 #
 # Include a plugin with `antigen bundle <plugin-name>`.
+antigen bundle git
 
 # Do not wrap `antigen theme` or `antigen bundle` in conditions. Antigen has cache invalidation issues.
 # If you want to conditionally load bundles, uncomment the following line:
